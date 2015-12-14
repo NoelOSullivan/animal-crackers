@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<Pieces>
+  <Piece>
+    <Image src="images/alligator.png" width="64" height="64"/>
+  </Piece>
+  <Piece>
+    <Image src="images/bird.png" width="64" height="64"/>
+  </Piece>
+  <Piece>
+    <Image src="images/crab.png" width="64" height="64"/>
+  </Piece>
+  <Piece>
+    <Image src="images/panda.png" width="64" height="64"/>
+  </Piece>
+  <Piece>
+    <Image src="images/pig.png" width="64" height="64"/>
+  </Piece>
+  <Piece>
+    <Image src="images/rooster.png" width="64" height="64"/>
+  </Piece>
+</Pieces>

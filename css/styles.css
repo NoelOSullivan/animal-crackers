@@ -1,0 +1,40 @@
+html, body {
+    height: 100%;
+    background-color:#000;
+    overflow: hidden;
+}
+
+.main {
+    height: 100%;
+    width: 100%;
+    display: table;
+}
+
+.wrapper {
+    display: table-cell;
+    height: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+
+canvas {
+    width: 630;
+    height: 630;
+    border: 5px solid #EEEEEE;
+    background-color:#FFF;
+    padding-left: 0;
+    padding-right: 0;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    background-image: url("../images/grid.png");
+}
+
+.score {
+    position: relative;
+    color: #AAAAAA;
+    margin-top: 10px;
+    font-family: Helvetica, sans-serif;
+    font-size: 20px;
+    cursor: default;
+}
